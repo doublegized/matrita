@@ -1,0 +1,14 @@
+*.out
+*.pdf
+*.log
+.DS_Store
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+GuITlogo/*
+*.sty
+*.glo
+*.hd
+*.sty
+*.toc
